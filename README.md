@@ -1,5 +1,5 @@
 # Hi! I'm Aditya 👋
-I'm a CS'26 undergrad who loves building full-stack mobile apps with React Native.<br> I'm learning about Web3 and blockchain storage and would love to collaborate on React Native projects!
+A CS'26 undergrad who loves building full-stack mobile apps with React Native.<br> I'm learning about Web3 and blockchain storage and would love to collaborate on React Native projects!
 
 <h2 align="left">👨‍💻My Tech Stack</h2>
 
