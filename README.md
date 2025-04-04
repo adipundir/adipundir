@@ -5,7 +5,7 @@ I build full-stack application that solve real world problems – currently divi
 ## 🚀 What I'm Building
 
 - 🧺 [**MandiBhai**](https://mandibhai.com) – A quick commerce app for FMCG retailers and wholesalers.
-- 🧠 [**SimplyQuiz**](https://simplyquiz.vercel.app) – An AI quiz solver that automates tests for entire college classes (200+ DAUs)
+- 🧠 [**SimplyQuiz**](https://simplyquiz.vercel.app) – An AI-powered automatic quiz solver for the students of my college. (400+ Daily Active Users)
 - 🤖 [**Agentic Screener**](https://agentic-screener.vercel.app) – AI recruiter that slashes hiring costs by upto 80% using a set of agents.  
 - ✈️ [**AeroDump**](https://ethglobal.com/showcase/aerodump-4z48m) – Cross-chain airdrop tool built with LayerZero
 
