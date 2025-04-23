@@ -19,8 +19,6 @@ I build full-stack application that solve real world problems – currently divi
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="40" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
