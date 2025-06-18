@@ -35,10 +35,6 @@ I'm proficient with a variety of technologies, primarily focusing on the followi
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="40" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="40" />
