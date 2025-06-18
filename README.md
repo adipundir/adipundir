@@ -11,7 +11,7 @@ I build full-stack applications that solve real-world problems. I specialize in 
 Here's a glimpse into some of my recent projects:
 
 * 🛡️ **[MantleMask](https://mantle-mask.vercel.app)** – A privacy-preserving token mixer on the Mantle Network. **Finalist** at COOK 02 Hackathon.
-* 📈 **[Artha-AI](https://0xartha.vercel.app)** – An AI-powered trading agent that analyzes market sentiments. Won **$3000 (2nd Prize Winner and Finalist)** at Cook 01 Hackathon!
+* 📈 **[Artha-AI](https://0xartha.vercel.app)** – An AI-powered trading agent that analyzes market sentiments. Won **$3000 and Finalist** at Cook 01 Hackathon!
 * 🧠 **[SimplyQuiz](https://simplyquiz.vercel.app)** – An AI-powered automatic quiz solver for college students, serving **400+ Daily Active Users**.
 * 🤖 **[Agentic Screener](https://agentic-screener.vercel.app)** – An AI recruiter that slashes hiring costs by up to 80% using agents. Awarded **$350** at the SOZU AI Virtual Hack.
 * ✈️ **[AeroDump](https://ethglobal.com/showcase/aerodump-4z48m)** – A cross-chain airdrop tool built with LayerZero. Won **$800** at ETHOnline 2024.
