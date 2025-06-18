@@ -4,7 +4,6 @@
 
 I'm passionate about building full-stack applications that solve real-world problems. Currently, I'm diving deep into **Web3**, **AI agents**, and **B2B infrastructure**.
 
----
 
 ## 🚀 What I'm Building
 
