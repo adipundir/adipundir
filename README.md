@@ -2,7 +2,7 @@
 
 **CS'26 Undergrad | CEHv9 Certified | Builder at Heart | Always Shipping**
 
-I build full-stack applications that solve real-world problems. I specialize in **AI automation**, **application security**, and **zero-knowledge (ZK) apps**.
+I build full-stack applications that solve real-world problems. I specialize in **AI automation**, **application security**, and **web3**.
 
 ---
 
