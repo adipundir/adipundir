@@ -41,5 +41,3 @@ I'm proficient with a variety of technologies, primarily focusing on the followi
   <img src="https://skillicons.dev/icons?i=py" height="40" />
 </div>
 
----
-
