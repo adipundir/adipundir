@@ -43,10 +43,3 @@ I'm proficient with a variety of technologies, primarily focusing on the followi
 
 ---
 
-## 📈 GitHub Stats
-
-Curious about my coding habits? You can check out my recent activity and top languages here:
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipundir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" />
-</div>
