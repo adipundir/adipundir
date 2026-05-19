@@ -8,8 +8,8 @@ I build full-stack applications that solve real-world problems. I specialize in 
 
 Here's a glimpse into some of my recent projects:
 
-*  **[Enwise](https://enwise.app)** – An MCP server that lets you create invoices through Claude and take payments from clients. End-to-end invoicing, assisted by AI.
-*  **[Donadomains](https://donadomains.xyz)** – Domain intelligence over MCP. One-click price comparison across registrars like GoDaddy, Namecheap, and more. AI-powered valuation for unavailable domains. Free, no signup, no API key.
+*  **[Enwise](https://enwise.app)** – MCP server for creating invoices and collecting payments through Claude.
+*  **[Donadomains](https://donadomains.xyz)** – MCP server for domain intelligence — registrar price comparison and AI valuation.
 *  **[Aptos x402](https://aptos-x402.org)** – x402 payment protocol for Aptos blockchain. Won $5000 during **Aptos Winter School 2025**.
 *  **[Artha-AI](https://0xartha.vercel.app)** – An AI-powered trading agent that analyzes market sentiments. Won **$3000 and Finalist** at Cook 01 Hackathon!
 *  **[SimplyQuiz](https://simplyquiz.vercel.app)** – An AI-powered automatic quiz solver for college students, serving **400+ Daily Active Users**.
