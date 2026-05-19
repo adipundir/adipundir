@@ -13,10 +13,8 @@ Here's a glimpse into some of my recent projects:
 *  **[Enwise](https://enwise.app)** – An MCP server that lets you create invoices through Claude and take payments from clients. End-to-end invoicing, assisted by AI.
 *  **[Donadomains](https://donadomains.xyz)** – Domain intelligence over MCP. One-click price comparison across registrars like GoDaddy, Namecheap, and more. AI-powered valuation for unavailable domains. Free, no signup, no API key.
 *  **[Aptos x402](https://aptos-x402.org)** – x402 payment protocol for Aptos blockchain. Won $5000 during **Aptos Winter School 2025**.
-*  **[MantleMask](https://mantle-mask.vercel.app)** – A privacy-preserving token mixer on the Mantle Network. **Finalist** at COOK 02 Hackathon.
 *  **[Artha-AI](https://0xartha.vercel.app)** – An AI-powered trading agent that analyzes market sentiments. Won **$3000 and Finalist** at Cook 01 Hackathon!
 *  **[SimplyQuiz](https://simplyquiz.vercel.app)** – An AI-powered automatic quiz solver for college students, serving **400+ Daily Active Users**.
-*  **[Agentic Screener](https://agentic-screener.vercel.app)** – An AI recruiter that slashes hiring costs by up to 80% using agents. Awarded **$350** at the SOZU AI Virtual Hack.
 *  **[AeroDump](https://ethglobal.com/showcase/aerodump-4z48m)** – A cross-chain airdrop tool built with LayerZero. Won **$800** at ETHOnline 2024.
 
 ---
