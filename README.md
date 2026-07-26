@@ -8,6 +8,7 @@ I build full-stack applications that solve real-world problems. I specialize in 
 
 Here's a glimpse into some of my recent projects:
 
+*  **[Earth Visa](https://earthvisa.in)** - A free visa checker for 199 passports, with every rule traced to an official government source.
 *  **[Enwise](https://enwise.app)** - MCP server for creating invoices and collecting payments through Claude.
 *  **[Donadomains](https://donadomains.xyz)** - A domain intelligence platform with one-click registrar price comparison and AI valuation.
 *  **[Aptos x402](https://aptos-x402.org)** - x402 payment protocol for Aptos blockchain. Won $5000 during **Aptos Winter School 2025**.
